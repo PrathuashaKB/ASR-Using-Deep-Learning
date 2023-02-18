@@ -8,4 +8,23 @@ Automatic Speech Recognition (ASR) is an important technology to enable and impr
 
 Given the popularity and demand of this technology, here is an attempt to create a simple speech recognition system that takes our voice as input and produces the corresponding text by hearing the input by using Wav2Vec2.0– a-state-of-the-art speech recognition approach by Facebook and Hugging Face model hub.
 
-#### This project is 
+#### This project is designed to create a simple speech recognition system via Deep learning approach!
+
+### Technologies required :
+
+ 1. Deep-Learning 
+
+ 2. Hugging Face
+
+ 3. Wav2Vec2.0 Model
+ 
+ 4. Python
+
+### System Design :
+
+<img src="https://github.com/PrathuashaKB/FanSeatz-Armypedia/blob/main/images/img1.PNG" width="100%"> 
+
+#### "Suggestions and project improvement are invited"
+
+#### Prathuasha K B
+
