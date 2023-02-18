@@ -22,7 +22,7 @@ Given the popularity and demand of this technology, here is an attempt to create
 
 ### System Design :
 
-<img src="https://github.com/PrathuashaKB/FanSeatz-Armypedia/blob/main/images/img1.PNG" width="100%"> 
+<img src="https://github.com/PrathuashaKB/ASR-Using-Deep-Learning/blob/main/images/ASR%20simplified%20architecture.png" width="100%"> 
 
 #### "Suggestions and project improvement are invited"
 
