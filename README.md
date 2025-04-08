@@ -1,12 +1,28 @@
-# ASR-Using-Deep-Learning
-Automatic Speech Recognition is a technique that processes human speech into readable text, also known as speech-to-text or transcription systems.
+# Automatic Speech Recognition
+<div>
+  <p align="center">
+    <img src="https://github.com/PrathuashaKB/ASR-Using-Deep-Learning/blob/main/images/ASD%20Logo.png" width="800"> 
+  </p>
+</div>
 
-Reference of similar project : https://www.analyticsvidhya.com/blog/2022/06/automatic-speech-recognition-using-wav2vec2/
 
-### About :
-Automatic Speech Recognition (ASR) is an important technology to enable and improve the human-human and human-computer interactions. This technology allows users of information systems to speak entries rather than punching numbers on a keyboard.This field has grown exponentially over the past decade, the ASR systems are used in a wide range of applications extending from finance to healthcare. It is an important research area for human-to-machine communication.
+🎙️ *Transforming Voice into Text: Harnessing Deep Learning for Seamless Communication*
 
-Given the popularity and demand of this technology, here is an attempt to create a simple speech recognition system that takes our voice as input and produces the corresponding text by hearing the input by using Wav2Vec2.0– a-state-of-the-art speech recognition approach by Facebook and Hugging Face model hub.
+Automatic Speech Recognition (ASR) is a technique that processes human speech into readable text—commonly known as speech-to-text or transcription systems. This project is designed to develop a simple and functional speech recognition system using advanced deep learning methods.ASR is a core technology that improves human-human and human-computer interaction. It enables users to interact with systems using natural speech rather than typing. From customer support chatbots to transcription tools and virtual assistants, ASR has penetrated multiple sectors including healthcare, finance, and education.
+Given its growing demand, this project presents an attempt to create a basic speech recognition model using Wav2Vec2.0, a state-of-the-art approach developed by Facebook AI and deployed via Hugging Face Transformers.
+
+![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%F0%9F%A7%A0-red?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=flat&logo=huggingface)
+![Wav2Vec2.0](https://img.shields.io/badge/Wav2Vec2.0-ASR-blueviolet?style=flat)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter&logoColor=white)
+
+✅ **Mini-Project I** at SSIT | Project Cycle Closed
+
+[PROJECT DOCUMENTATION](https://github.com/PrathuashaKB/ASR-Using-Deep-Learning/blob/main/ASR%20report.pdf), you can find the complete project documentation here.
+
+[PROJECT PRESENTATION](https://github.com/PrathuashaKB/ASR-Using-Deep-Learning/blob/main/Project%20Presentation.pptx), you can find the complete project presentation here.
+
 
 #### This project is designed to create a simple speech recognition system via Deep learning approach!
 
@@ -24,7 +40,7 @@ Given the popularity and demand of this technology, here is an attempt to create
 
 <img src="https://github.com/PrathuashaKB/ASR-Using-Deep-Learning/blob/main/images/ASR%20simplified%20architecture.png" width="100%"> 
 
-#### "Suggestions and project improvement are invited"
+#### Suggestions and project improvement are invited!
 
 #### Prathuasha K B
 
