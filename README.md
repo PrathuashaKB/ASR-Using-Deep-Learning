@@ -9,7 +9,7 @@
 🎙️ *Transforming Voice into Text: Harnessing Deep Learning for Seamless Communication*
 
 **Automatic Speech Recognition** (ASR) is a technique that processes human speech into readable text—commonly known as speech-to-text or transcription systems. This project is designed to develop a simple and functional speech recognition system using advanced **deep learning** methods. ASR is a core technology that improves human-human and human-computer interaction. It enables users to interact with systems using natural speech rather than typing. From customer support chatbots to transcription tools and virtual assistants, ASR has penetrated multiple sectors including healthcare, finance, and education.
-Given its growing demand, this project presents an attempt to create a basic speech recognition model using **Wav2Vec2.0**, a state-of-the-art approach developed by Facebook AI and deployed via **Hugging Face** Transformers. It is developed as part of `Mini Project I` during the `V semester of BE` at Sri Siddhartha Institute of Technology, Tumakuru, as a practical exploration of deep learning-based speech recognition systems.
+Given its growing demand, this project presents an attempt to create a basic speech recognition model using **Wav2Vec2.0**, a state-of-the-art approach developed by Facebook AI and deployed via **Hugging Face** Transformers. It is developed as part of `Mini Project I` during the `V semester-BE` at Sri Siddhartha Institute of Technology, Tumakuru, as a practical exploration of deep learning-based speech recognition systems.
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%F0%9F%A7%A0-red?style=flat)
