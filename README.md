@@ -17,7 +17,7 @@ Given its growing demand, this project presents an attempt to create a basic spe
 ![Wav2Vec2.0](https://img.shields.io/badge/Wav2Vec2.0-ASR-blueviolet?style=flat)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter&logoColor=white)
 
-✅ **Mini-Project I** at SSIT | Project Cycle Closed | [Official Guideline](https://github.com/PrathuashaKB/ASR-Using-Deep-Learning/blob/main/MINI%20PROJECT%20I%20Criteria.pdf)
+> ✅ **Mini-Project I** at SSIT | Project Cycle Closed | [Official Guideline](https://github.com/PrathuashaKB/ASR-Using-Deep-Learning/blob/main/MINI%20PROJECT%20I%20Criteria.pdf)
 
 [PROJECT DOCUMENTATION](https://github.com/PrathuashaKB/ASR-Using-Deep-Learning/blob/main/ASR%20report.pdf), you can find the complete project documentation here.
 
@@ -25,6 +25,32 @@ Given its growing demand, this project presents an attempt to create a basic spe
 
 
 #### *This project is designed to create a simple speech recognition system via Deep learning approach!*
+
+### Features : 
+1. Converts speech to text using deep learning.
+
+2. Built with Wav2Vec2.0 model from Hugging Face.
+
+3. Enables human-computer interaction via voice.
+
+4. Suitable for domains like healthcare, finance, and education.
+
+5. Implemented in Python with real-time output.
+
+### Methodology :
+1. **Data Acquisition** - Used pre-trained Wav2Vec2.0 model (fine-tuned on English speech datasets) via Hugging Face Transformers.
+
+2. **Audio Input Handling** - Captured or loaded .wav audio files as model input.
+
+3. **Preprocessing**
+   - Converted audio into the required format (sampling rate, mono-channel).
+   - Tokenized and processed using Wav2Vec2.0 tokenizer.
+
+4. **Model Inference** - Used the Wav2Vec2ForCTC model to generate raw predictions from audio features.
+
+5. **Decoding** - Applied CTC (Connectionist Temporal Classification) decoding to convert logits into final transcribed text.
+
+6. **Output Generation** - Displayed the predicted text in terminal or GUI (optional).
 
 ### Technologies required :
 
