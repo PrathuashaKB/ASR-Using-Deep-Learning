@@ -66,6 +66,11 @@ Given its growing demand, this project presents an attempt to create a basic spe
 
 <img src="https://github.com/PrathuashaKB/ASR-Using-Deep-Learning/blob/main/images/ASR%20simplified%20architecture.png" width="100%"> 
 
+### Team Members :
+1. Neha Acharya
+
+2. Prathuasha K B*
+
 #### Suggestions and project improvement are invited!
 
 #### Prathuasha K B
